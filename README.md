@@ -1,0 +1,1 @@
+ML Backpack price prediction model based on various features - brand, material, size, compartment, waterproof, colour.The model implements DecisionTreeRegressor to accurately predict the price of backpack 
